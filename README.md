@@ -15,3 +15,6 @@ PowerBI_SalesPerformance
 
 ├── insights/
     └── summary.txt
+
+    
+<img width="1225" height="690" alt="Dashboard" src="https://github.com/user-attachments/assets/689e0bd9-b16c-4776-8524-05260d6caa59" />
